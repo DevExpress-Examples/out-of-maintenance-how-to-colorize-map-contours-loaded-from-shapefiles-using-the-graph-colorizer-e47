@@ -1,0 +1,7 @@
+﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             x:Class="UsingGraphColorizer.App" xmlns:my="clr-namespace:System;assembly=mscorlib">
+    <Application.Resources>
+    <my:String x:Key="DevExpress.Xpf.License">03-CA-92-AF-62-8F-1F-67-19-26-67-F1-9C-34-F8-5B-65-55-A8-D5</my:String>
+  </Application.Resources>
+</Application>
