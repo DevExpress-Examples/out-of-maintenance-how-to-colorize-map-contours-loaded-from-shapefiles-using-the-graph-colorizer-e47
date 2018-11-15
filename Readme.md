@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/UsingGraphColorizer/MainPage.xaml) (VB: [MainPage.xaml](./VB/UsingGraphColorizer/MainPage.xaml))
+<!-- default file list end -->
 # How to colorize map contours loaded from Shapefiles using the Graph colorizer
 
 
